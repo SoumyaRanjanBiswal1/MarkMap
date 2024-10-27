@@ -5,7 +5,10 @@ MarkMap is a user-friendly tool for dropping pins on a map, adding remarks, and 
 ## Live Demo
 
 [Here is my deployed app link](https://mark-map-topaz.vercel.app/)
-Deployed on Vercel
+
+Deployed on Vercel:
+
+https://mark-map-topaz.vercel.app/
 
 ## Features
 
